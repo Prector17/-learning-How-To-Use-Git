@@ -1,6 +1,6 @@
 #My First Git Repository
 
-
+git commit
 
 * This is the bullet
 *This is another in the list
